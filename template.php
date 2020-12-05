@@ -9,7 +9,7 @@
     
     <h1>Sistema de Marketing Multinível</h1>
 
-    <h2>Usuário Logado: <?= $nome ?></h2>
+    <h2>Usuário Logado: <?= $nome ?> (<?= $patente ?>)</h2>
 
     <a href="cadastro.php">Cadastrar Novo Usuário</a>
 
